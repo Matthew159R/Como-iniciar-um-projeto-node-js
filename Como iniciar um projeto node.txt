@@ -1,0 +1,18 @@
+1. Digitar npm init no terminal aberto na pasta do projeto para iniciar o projeto node.
+
+2. Instalar o express com o comando "npm install --save express" para definição de rotas
+
+3.Instalar o sequelize com o comando "npm install --save sequelize" para manipular banco de dados
+com o node
+
+4. Instalar a biblioteca mysql2 para o sequelize se conectar com o mysql usando
+o comando "npm install --save mysql2"
+
+5.Instalar a biblioteca body-parser para lidar com forms usando o comando
+"npm install --save body-parser"
+
+6.Instalar a template engine ejs para renderizar html usando o comando
+"npm install --save ejs"
+
+7. Instalar o nodemon para, quando fizer atualizações no código, não precisar reiniciar
+o servidor. Comando: "npm install --save nodemon" e levantar o servidor com o comando "npm start"
